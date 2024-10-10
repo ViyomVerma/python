@@ -8,6 +8,7 @@
 # How to use numpy in python:-  goto terminal -> pip install numpy
 
 import numpy as np
+
 #assign array in numpy
 
 myData =np.array([1,2,3,4])
@@ -57,3 +58,5 @@ while i>=0:
 #sorting the data
 myfriends.sort()
 print(myfriends)
+
+
